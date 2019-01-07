@@ -1,7 +1,7 @@
 Imports System
 Imports System.Windows.Forms
 
-Module Program
+Module Module1
     Sub Main()
         'コピーするファイルのパスをStringCollectionに追加する
         Dim Clip_Text As String = Clipboard.GetText()
